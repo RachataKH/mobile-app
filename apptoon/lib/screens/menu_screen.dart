@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class MenuScreen extends StatefulWidget {
+  const MenuScreen({super.key});
+
   @override
   _SettingsScreenState createState() => _SettingsScreenState();
 }
